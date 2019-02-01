@@ -18,7 +18,7 @@ public class Test1 {
 //		service.modifierAvenger(av2, "peut se déplacer dans le temps");
 //		System.out.println("Afficher 1 avenger : ");
 //		service.recupererAvenger(av1);
-//		//service.supprimerAvenger(av1);
+//		service.supprimerAvenger(av1);
 		System.out.println("Afficher tous les avengers : ");
 		service.recupererTout();
 
