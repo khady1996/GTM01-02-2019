@@ -14,7 +14,7 @@ public class Test1 {
 		Avenger av2 = new Avenger("iron", "noir", 26, "peut disparaitre");
 
 		service.ComparerAvenger(av1, av1);
-		// service.ajouterAvenger(av2);
+// 		service.ajouterAvenger(av2);
 //		service.modifierAvenger(av2, "peut se déplacer dans le temps");
 //		System.out.println("Afficher 1 avenger : ");
 //		service.recupererAvenger(av1);
